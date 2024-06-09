@@ -9,6 +9,7 @@ import Foundation
 import SwiftUI
 import CoreGraphics
 import UIKit
+import Combine
 
 //MARK: - CGPoint based
 

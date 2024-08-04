@@ -9,6 +9,7 @@ import Foundation
 import SwiftUI
 import UIKit
 import Combine
+import NaturalLanguage
 
 //MARK: - CGPoint based
 

@@ -8,7 +8,7 @@
 import Foundation
 import SwiftUI
 import UIKit
-import CoreGraphics
+
 //MARK: - CGPoint based
 
 class DouglasPeucker {

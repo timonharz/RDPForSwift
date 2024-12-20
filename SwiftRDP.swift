@@ -8,6 +8,7 @@
 import SwiftUI
 import UIKit
 import CoreGraphics
+import Foundation
 
 //MARK: - CGPoint based
 
